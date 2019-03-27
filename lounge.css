@@ -19,3 +19,34 @@
   border-bottom-right-radius: 3em;
   border-bottom-left-radius: 3em;
 }
+#elixirs {
+  border-width: thin;
+  border-style: solid;
+  border-color: #007e7e;
+  width: 200px;
+
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+
+  margin-left: 20px;
+
+  text-align: center;
+
+  background-image: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+
+  line-height: 1;
+}
+#elixirs h2{
+  color: black;
+}
+#elixirs h3{
+  color: #d12c47;
+}
+.cd{
+  font-style: italic;
+}
+.artist{
+  font-weight: bold;
+}
